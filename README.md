@@ -1,4 +1,5 @@
-FamilyFriendsProject
+To run in terminal:
+Type "rails s" then on your browser, go to "localhost:3000"
 
 Description
 
